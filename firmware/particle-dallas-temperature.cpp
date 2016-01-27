@@ -7,9 +7,9 @@
 // See Includes...
 // Modified by Jordan Hochenbaum
 
-// Modified by Tom de Boer @ 26-jun-2014 (Spark Core compatibility)
+// Modified by Tom de Boer @ 26-jun-2014 (Particle Core compatibility)
 
-#include <spark-dallas-temperature.h>
+#include <particle-dallas-temperature.h>
 
 DallasTemperature::DallasTemperature(OneWire* _oneWire)
 #if REQUIRESALARMS
