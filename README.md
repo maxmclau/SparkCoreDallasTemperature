@@ -1,4 +1,4 @@
-# Particle Dallas Temperature Sensor Library [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/maxmclau/particle-dallas-temperature/blob/master/LICENSE) <img src="http://i.imgur.com/BwfHCrI.png" width="180px" align="right" />
+# Particle Dallas Temperature [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/maxmclau/particle-dallas-temperature/blob/master/LICENSE) <img src="http://i.imgur.com/BwfHCrI.png" width="180px" align="right" />
 >This library is a port of the Arduino Dallas Temperature Sensor library. Some includes have been fixed, but the libary is otherwise untouched.
 > Original repository by Miles Burton: [Arduino-Temperature-Control-Library](https://github.com/milesburton/Arduino-Temperature-Control-Library).
 > Forked from Tom Deboer: [SparkCoreDallasTemperature](https://github.com/tomdeboer/SparkCoreDallasTemperature).
